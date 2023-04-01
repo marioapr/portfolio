@@ -6,7 +6,7 @@ O projeto é um portfolio de desenvolvedor front-end.
 | -------------  | --- |
 | :sparkles: Nome        | **Portfolio Mario Anthony**
 | :label: Tecnologias | html, css 
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://portfolio-rust-delta-33.vercel.app/index.html
 | :fire: Desafio     | https://cursos.alura.com.br/formacao-html-css-v534235
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
